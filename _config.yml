@@ -2,6 +2,7 @@ name: fonchi
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.79111
+title: ƒonchi
 cta:
   domain: null
   bucket: null
