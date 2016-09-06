@@ -28,6 +28,9 @@ navigation:
   - name: Mi ojos
     url: 'http://yamegusta.tumblr.com/'
     type: external
+  - name: Mis oídos
+    url: 'http://www.last.fm/user/fonte'
+    type: external
 favicon: null
 title: As iF
 purpose: []
